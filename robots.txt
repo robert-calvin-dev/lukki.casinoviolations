@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lukki.casinoviolations.com/sitemap.xml
